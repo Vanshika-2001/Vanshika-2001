@@ -22,6 +22,8 @@ I am interested in Electronics and Computer Science. Apart from Tech, I am also 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishikagupta2468&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085)](https://git.io/streak-stats) -->
 
+
+
 <h2>🛠Tech Stack</h2>
 
 Languages  
@@ -54,6 +56,10 @@ Languages
 [![](https://raw.githubusercontent.com/Vanshika-2001/Vanshika/master/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Vanshika-2001/Vanshika/master/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Vanshika-2001/Vanshika/master/profile-summary-card-output/solarized/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Vanshika-2001/Vanshika/master/profile-summary-card-output/solarized/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Vanshika-2001/Vanshika/master/profile-summary-card-output/solarized/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![Vanshika's github activity graph](https://activity-graph.herokuapp.com/graph?username=Vanshika-2001&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vanshika-2001)](https://git.io/streak-stats)
 
 📫Connect with me:
 
