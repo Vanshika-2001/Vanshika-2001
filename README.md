@@ -1,9 +1,8 @@
 ### Hi there 👋
 <h2 align="center">Hi, I'm Vanshika Agarwal  <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
  
-[![Twitter Follow](https://img.shields.io/twitter/follow/spicedlattegirl?style=social](https://twitter.com/spicedlattegirl)
-[![Twitter Follow](https://img.shields.io/twitter/follow/spicedlattegirl?style=social](https://twitter.com/spicedlattegirl)
 
+https://img.shields.io/twitter/follow/spicedlattegirl?style=social
 <h2 align="center"><img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif"></h2>
 
 <h2>About me</h2>
