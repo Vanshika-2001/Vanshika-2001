@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h2 align="center">Hi, I'm Vanshika Agarwal  <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
  
-[![Twitter Follow](https://img.shields.io/twitter/follow/spicedlattegirl?t=1QtCnNO0op026Wco9csBlg&s=09?style=social](https://twitter.com/spicedlattegirl?t=1QtCnNO0op026Wco9csBlg&s=09)
+[![Twitter Follow](https://img.shields.io/twitter/follow/spicedlattegirl?style=social](https://twitter.com/spicedlattegirl)
 
 
 
