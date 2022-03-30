@@ -1,9 +1,9 @@
 ### Hi there 👋
 <h2 align="center">Hi, I'm Vanshika Agarwal  <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
  
-[![Twitter Follow](https://img.shields.io/twitter/follow/rishika5000?style=social)](https://twitter.com/Rishika5000)
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCKTBOLj2igRhsYX1RGdV0ww?style=social)](https://www.youtube.com/channel/UCKTBOLj2igRhsYX1RGdV0ww)
-[![GitHub followers](https://img.shields.io/github/followers/rishikagupta2468?style=social)](https://github.com/rishikagupta2468)
+[![Twitter Follow](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fspicedlattegirl%3Ft%3D1QtCnNO0op026Wco9csBlg%26s%3D09](https://twitter.com/spicedlattegirl?t=1QtCnNO0op026Wco9csBlg&s=09)
+
+
 
 <h2 align="center"><img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif"></h2>
 
