@@ -3,6 +3,7 @@
 <h2 align="center">I'm Vanshika Agarwal, an Aspiring Software Developer  <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
  
  [![Twitter Follow](https://img.shields.io/twitter/follow/spicedlattegirl?style=social)]
+ ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
  
  <h2 align="center"><img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif"></h2>
 
